@@ -15,7 +15,7 @@ Built a backend design for an inventory management system supporting:
 - Low-stock alert system
 
 ## Contents
-- case_study_stockFlow.pdf → Complete solution
+- case_study_stockFlow_TONI_BLAIR.pdf → Complete solution
 
 ## Key Highlights
 - Transaction-safe product creation
