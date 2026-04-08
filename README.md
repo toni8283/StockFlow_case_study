@@ -2,6 +2,12 @@
 
 This repository contains my submission for the Backend Engineering Intern case study.
 
+## View Submission
+
+- 📄 GitHub: `stockflow-backend-case-study.pdf`
+- 🔗 Google Drive (best viewing): [Open PDF](https://drive.google.com/file/d/1311DI_0_VPyRLZNzBQo5zq-593xFxRrq/view?usp=sharing)
+                                  [open docs](https://docs.google.com/document/d/1fSAfOHN490rSw3PP19kqLJoiTgT51GOr/edit?usp=sharing&ouid=117683118179001760089&rtpof=true&sd=true)
+
 ## Overview
 Built a backend design for an inventory management system supporting:
 - Multi-warehouse inventory tracking
